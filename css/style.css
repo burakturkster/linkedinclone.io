@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(243, 242, 239)
+}
+
+.background-white {
+    background-color: white;
+    padding-left: 400px ;
+    padding-right: 900px;
+    width: 2338px; 
+    height: 53px; 
+
+}
+
+#box {
+    max-width: 300px;
+    position: relative;
+}
+ 
+#box .fa-search {
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    font-size: 17px;
+    color:black;
+}
+ 
+#search {
+    width: 100px;
+    box-sizing: border-box;
+    border: 0;
+    background-color: rgb(243, 242, 239);
+    font-size:14px;
+    padding: 12px 20px 12px 40px;
+    -moz-transition: width 0.4s ease-in-out;
+    -o-transition: width 0.4s ease-in-out;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    width: 280px;
+    height: 34px;
+}
+ 
+#search:focus {
+    width: 180%;
+}
+ 
