@@ -4,10 +4,10 @@ body {
 
 .background-white {
     background-color: white;
-    padding-left: 400px ;
-    padding-right: 900px;
-    width: 2338px; 
-    height: 53px;  
+    padding-left: 150px ;
+    padding-right: 170px; 
+    height: 53px; 
+    border-bottom: 3px;
 
 }
 
