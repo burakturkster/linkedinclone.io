@@ -62,12 +62,28 @@ p.text:hover::before {
     transform: scaleX(1);
   }	
 
-  .burakturk:hover {
+  .underlineandpointer:hover {
     cursor: pointer;
     text-decoration: underline;
   }	
 
   .leftbars:hover {
     cursor: pointer;
-    background-color: #dce6f1 ;
+    background-color: #e6e6e6 ;
+  }	
+
+  .footerleftbar:hover {
+    cursor: pointer;
+    background-color: #e6e6e6 ;
+  }
+
+  .midsearchbar:hover {
+    cursor: pointer;
+    background-color: #e6e6e6 ;
+    color: #e6e6e6;
+  }	
+  .underlineandpointerblue:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: darkblue;
   }	
