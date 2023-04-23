@@ -61,3 +61,13 @@ p.text:hover::before {
     visibility: visible;
     transform: scaleX(1);
   }	
+
+  .burakturk:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }	
+
+  .leftbars:hover {
+    cursor: pointer;
+    background-color: #788fa5 ;
+  }	
